@@ -15,7 +15,7 @@ const RecursionVisualizer = lazy(() => import('./components/Visualization/Recurs
 import AlgorithmControls from './components/Controls/AlgorithmControls';
 import AlgorithmStatus from './components/Controls/AlgorithmStatus';
 import InteractiveDataEditor from './components/Controls/InteractiveDataEditor';
-import AlgorithmLogs from './components/Logs/AlgorithmLogs';
+import AlgorithmLogs from './components/Logs/AlgorithmLogs.jsx';
 import HeroHeader from './components/HeroHeader';
 import { useAlgorithmRunner } from './hooks/useAlgorithmRunner';
 import { useAlgorithm } from './context/AlgorithmContext';
