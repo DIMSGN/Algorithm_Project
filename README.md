@@ -1,5 +1,7 @@
 # Algorithm_Project
 
+Github Pages : https://dimsgn.github.io/Algorithm_Project/
+
 Algorithm_Project is an interactive visualizer and toolkit for learning, experimenting with, and understanding algorithms. Built with React and Vite, it features visualizations for searching, sorting, hashing, and recursion algorithms, with step-by-step controls and editable data.
 
 ## Features
